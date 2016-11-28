@@ -1,4 +1,4 @@
-Docker Sshpass
+Docker SSHPass
 =============
 
 sshpass is a utility designed for running ssh using the mode referred to as "keyboard-interactive" password authentication, 
